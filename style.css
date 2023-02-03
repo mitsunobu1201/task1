@@ -38,8 +38,8 @@ main {
   width: 100%;
   background-image: url(img/flow01.png);
   background-size: cover;
-  background-position:bottom;
-  
+  background-position: bottom;
+
 }
 
 .content-img2 {
@@ -47,8 +47,8 @@ main {
   width: 100%;
   background-image: url(img/flow02.png);
   background-size: cover;
-  background-position:bottom;
-  
+  background-position: bottom;
+
 }
 
 .content-img3 {
@@ -56,15 +56,15 @@ main {
   width: 100%;
   background-image: url(img/flow03.png);
   background-size: cover;
-  background-position:bottom;
-  
+  background-position: bottom;
+
 }
 
 .content-title {
   padding: 20px 0 10px 0;
 }
 
-.content-text{
+.content-text {
   font-size: 15px;
 }
 
